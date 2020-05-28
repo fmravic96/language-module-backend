@@ -1,1 +1,1 @@
-# Run as ts-node server.ts
+# How to run: "ts-node server.ts"
