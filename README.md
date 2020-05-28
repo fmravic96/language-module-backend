@@ -1,1 +1,1 @@
-# language-module-backend
+# Run as ts-node server.ts
